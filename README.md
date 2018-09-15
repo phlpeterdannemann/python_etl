@@ -3,8 +3,13 @@ Python ETL template based on Martin Yung's [codeburst.io post](https://codeburst
 
 ## File structure
 python_etl
+
     |__main.py
+    
     |__db_credentials.py
+    
     |__variables.py
+    
     |__sql_queries.py
+    
     |__etl.py
