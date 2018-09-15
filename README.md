@@ -2,7 +2,6 @@
 Python ETL template based on Martin Yung's [codeburst.io post](https://codeburst.io/using-python-script-for-data-etl-53138c567906)
 
 ## File structure
-python_etl
 
     |__main.py
     
